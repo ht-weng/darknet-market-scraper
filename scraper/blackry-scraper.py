@@ -6,7 +6,7 @@ import re
 record_count = 24
 website_url = 'http://x7hti7aucprqh2iv.onion/'
 
-with open('blackry.html', 'r') as html_file:
+with open('../data/blackry.html', 'r') as html_file:
     soup = BeautifulSoup(html_file, 'lxml')
 
 listings = soup.select('div.card-body')

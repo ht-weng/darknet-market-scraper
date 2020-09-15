@@ -6,7 +6,7 @@ import re
 record_count = 24
 website_url = 'http://europamk24ai3hjz.onion/'
 
-with open('europa.html', 'r') as html_file:
+with open('../data/europa.html', 'r') as html_file:
     soup = BeautifulSoup(html_file, 'lxml')
 
 listings = soup.select('div.content')

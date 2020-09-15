@@ -6,7 +6,7 @@ import re
 record_count = 11
 website_url = 'http://ck73ugjvx5a4wkhsmrfvwhlrq7evceovbsb7tvaxilpahybdokbyqcqd.onion/'
 
-with open('yellow2.html', 'r') as html_file:
+with open('../data/yellow2.html', 'r') as html_file:
     soup = BeautifulSoup(html_file, 'lxml')
 
 listings = soup.select('div#listing')

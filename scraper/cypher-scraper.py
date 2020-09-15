@@ -6,7 +6,7 @@ import re
 record_count = 24
 website_url = 'http://xtzqxvmi6p7hul6i.onion/'
 
-with open('cypher.html', 'r') as html_file:
+with open('../data/cypher.html', 'r') as html_file:
     soup = BeautifulSoup(html_file, 'lxml')
 
 listings = soup.select('div.card-body')

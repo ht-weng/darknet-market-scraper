@@ -6,7 +6,7 @@ import re
 record_count = 10
 website_url = 'http://paxromanadfudhte.onion/'
 
-with open('pax.html', 'r') as html_file:
+with open('../data/pax.html', 'r') as html_file:
     soup = BeautifulSoup(html_file, 'lxml')
 
 listings = soup.select('a.mp-Listing-coverLink')

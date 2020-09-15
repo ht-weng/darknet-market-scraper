@@ -6,7 +6,7 @@ import re
 record_count = 10
 website_url = 'http://c77yo2fe3f4e3g7tll5qrzzoneymihws2tpjceg6wop2ky6pkcaqczyd.onion'
 
-with open('square2.html', 'r') as html_file:
+with open('../data/square2.html', 'r') as html_file:
     soup = BeautifulSoup(html_file, 'lxml')
 
 listings = soup.select('div.is-5')

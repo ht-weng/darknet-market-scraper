@@ -6,7 +6,7 @@ import re
 record_count = 40
 website_url = 'http://auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion'
 
-with open('whitehouse.html', 'r') as html_file:
+with open('../data/whitehouse.html', 'r') as html_file:
     soup = BeautifulSoup(html_file, 'lxml')
 
 vendor_list = soup.select('div.col-md-3')
