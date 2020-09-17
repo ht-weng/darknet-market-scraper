@@ -1,8 +1,8 @@
-# Darknet Market Spider
+# Darknet Market Scraper
 
 ## Overview
 
-This darknet market spider is designed to download, scrape and analyse a set of darknet markets.
+This darknet market scraper is designed to download, scrape and analyse a set of darknet markets.
 
 The list of included darknet markets is as follows:
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Then use [Tor Browser](https://www.torproject.org/download/) to log in to the markets. Then copy and paste the cookie values with [Cookie Quick Manager](https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/) to `data/[market name]/cookies.txt` (Click the Cookie Quick Manager icon and then click 'Search Cookies for ...' to access the cookies manager page. Copy the cookie value in the 'Details' column). Note that there are two cookie values to copy and paste for each market.  
 
-Now start up the spider.
+Now start up the scraper.
 
 ```bash
 python3 main.py [option] [argument]
