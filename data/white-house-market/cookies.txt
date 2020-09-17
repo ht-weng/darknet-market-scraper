@@ -1,0 +1,2 @@
+auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion	TRUE	/	FALSE	0	dcap	[cookie value]
+auzbdiguv5qtp37xoma3n4xfch62duxtdiu4cfrrwbxgckipd4aktxid.onion	FALSE	/	FALSE	0	msid	[cookie value]

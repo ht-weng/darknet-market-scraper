@@ -1,0 +1,2 @@
+jcnhui6sgumsawtd.onion	FALSE	/	FALSE	0	XSRF-TOKEN	[cookie value]
+jcnhui6sgumsawtd.onion	FALSE	/	FALSE	0	cyphermarket	[cookie value]

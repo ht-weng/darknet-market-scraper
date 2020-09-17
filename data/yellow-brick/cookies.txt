@@ -1,0 +1,2 @@
+ck73ugjvx5a4wkhsmrfvwhlrq7evceovbsb7tvaxilpahybdokbyqcqd.onion	TRUE	/	FALSE	0	dcap	[cookie value]
+ck73ugjvx5a4wkhsmrfvwhlrq7evceovbsb7tvaxilpahybdokbyqcqd.onion	FALSE	/	FALSE	0	yb	[cookie value]
