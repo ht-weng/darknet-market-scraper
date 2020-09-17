@@ -90,4 +90,4 @@ if __name__ == '__main__':
                     continue
             print("Total failed: ", failed_imports)
             
-    print('All crawled webpages have been scraped!')
+    print('All donwloaded webpages have been scraped!')

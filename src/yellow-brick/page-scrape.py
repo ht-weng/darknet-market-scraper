@@ -114,4 +114,4 @@ if __name__ == '__main__':
 
             print("Total failed: ", failed_imports)
 
-    print('All crawled webpages have been scraped!')
+    print('All downloaded webpages have been scraped!')

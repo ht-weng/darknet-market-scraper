@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-White House Market Page Crawler
+White House Market Page Downloader
 '''
 
 from datetime import date

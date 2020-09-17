@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-Yellow Brick Page Crawler
+Yellow Brick Page Downloader
 '''
 
 from datetime import date

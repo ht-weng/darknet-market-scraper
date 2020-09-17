@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-Cypher Market Page Crawler
+Cypher Market Page Downloader
 '''
 
 from datetime import date
